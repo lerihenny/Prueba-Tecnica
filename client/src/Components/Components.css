@@ -1,0 +1,60 @@
+.right{
+  float: right;
+}
+
+.left{
+  float: left;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+/**NAV STYLE**/
+.logo{
+  width: 5%;
+}
+
+#nav{
+  background-color: #dad1b7;
+  box-shadow: 1px 3px 6px #6c675b;
+}
+
+/**NAV STYLE**/
+
+/**LOG IN STYLE**/
+.form{
+  -webkit-border-radius: 21px;
+  -moz-border-radius: 21px;
+  -webkit-box-shadow: 0px 0px 25px #6c675b;
+  -moz-box-shadow: 0px 0px 25px #6c675b;  
+  box-shadow: 0px 0px 25px #6c675b;
+  border-radius: 21px;
+}
+
+.buttonEntrar{
+  background-color: #dad1b7 !important;
+  color: black !important;
+  border-color: #dad1b7 !important;
+  width: 20%;
+}
+
+/**LOG IN STYLE**/
+
+/**HOME STYLE**/
+.form-vinos{
+  -webkit-border-radius: 21px;
+  -moz-border-radius: 21px;
+  -webkit-box-shadow: 0px 0px 25px #6c675b;
+  -moz-box-shadow: 0px 0px 25px #6c675b;  
+  box-shadow: 0px 0px 4px #6c675b;
+  border-radius: 10px;
+}
+/**HOME STYLE**/
+
+
